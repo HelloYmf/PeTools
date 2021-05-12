@@ -1,7 +1,7 @@
 # PE工具
 
 ### 开发环境：
-Win10 VisualStudio2010 Win32SDK 多字节集编码 x86
+Win7 VisualStudio2010 Win32SDK 多字节集编码 x86
 ### 介绍：
 1.可以查看当前系统下的32位进程列表，并且可以查看某个进程所有的模块信息。
 
