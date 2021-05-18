@@ -29,7 +29,7 @@ Win7 VisualStudio2010 Win32SDK 多字节集编码 x86
 ![PE工具-导出表](https://i.loli.net/2021/05/12/9pvVPQu4UFcSgxZ.png)
 
 #### 查看导入表
-![PE工具-导入表](https://i.loli.net/2021/05/12/f19nLalZ2vNezIX.png)
+![PE工具-导入表](http://m.qpic.cn/psc?/V53tEaNT08JBK54ePRQb1ZC3DT2wwZbT/45NBuzDIW489QBoVep5mceUC5kp660TTHq.W*47Uph7Bl*Qgdhq5dC.oI3m*g5uAS9PFJD0jd0vLQBLSzSWumB*a1BO4kQp6vFmAlx84s4Q!/b&bo=awPVAQAAAAADJ74!&rf=viewer_4)
 
 #### 查看重定位表
 ![PE工具-重定位表](https://i.loli.net/2021/05/12/dnWDujfI9kTZB6c.png)
@@ -38,4 +38,4 @@ Win7 VisualStudio2010 Win32SDK 多字节集编码 x86
 ![PE工具-资源表](https://i.loli.net/2021/05/12/Sad8ifDyMvr2wk1.png)
 
 #### 查看绑定导入表表
-![PE工具-绑定导入表表](http://m.qpic.cn/psc?/V53tEaNT08JBK54ePRQb1ZC3DT2wwZbT/45NBuzDIW489QBoVep5mceUC5kp660TTHq.W*47Uph7Bl*Qgdhq5dC.oI3m*g5uAS9PFJD0jd0vLQBLSzSWumB*a1BO4kQp6vFmAlx84s4Q!/b&bo=awPVAQAAAAADJ74!&rf=viewer_4)
+![PE工具-绑定导入表表](http://m.qpic.cn/psc?/V53tEaNT08JBK54ePRQb1ZC3DT2wwZbT/45NBuzDIW489QBoVep5mceUC5kp660TTHq.W*47Uph4*ZbkMYfa7B5xgv5bvUK2nH.3rt59rIfrdR3ZuJSx.wAAnUQGjYjXxCX85JIUpmd0!/b&bo=ZQKiAQAAAAADF*Y!&rf=viewer_4)
