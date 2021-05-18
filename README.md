@@ -17,7 +17,7 @@ Win7 VisualStudio2010 Win32SDK 多字节集编码 x86
 ### 演示：
 
 #### 查看进程模块
-![PE工具-查看模块](https://i.loli.net/2021/05/12/NhRvyWuYcamZ68f.png)
+![PE工具-查看模块](https://i.loli.net/2021/05/18/WJTpYvQklhbZdxw.png)
 
 #### 查看PE基本信息
 ![PE工具-PE基本信息](https://i.loli.net/2021/05/12/iC3ERIZmhSznMK6.png)
