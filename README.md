@@ -8,7 +8,7 @@ Win7 VisualStudio2010 Win32SDK 多字节集编码 x86
 2.可以解析32位PE文件的标准PE头，可选PE头，节表，导出表，导入表，重定位表，资源表，绑定导入表信息。
 
 ### 用到的技术：
-1.Win32 SDK绘制界面，Windows API的使用。
+1.Win32 SDK绘制图形界面，Windows API的使用。
 
 2.PE文件结构。
 
