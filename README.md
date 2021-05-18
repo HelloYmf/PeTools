@@ -23,7 +23,7 @@ Win7 VisualStudio2010 Win32SDK 多字节集编码 x86
 ![PE工具-PE基本信息](https://i.loli.net/2021/05/12/iC3ERIZmhSznMK6.png)
 
 #### 查看节表
-![PE工具-节表](https://i.loli.net/2021/05/12/aDFs6mnhkp9QU2K.png)
+![PE工具-节表](http://m.qpic.cn/psc?/V53tEaNT08JBK54ePRQb1ZC3DT2wwZbT/45NBuzDIW489QBoVep5mcTafVQlJjuOP7cuBxKf3SBccOWSdzObQjgRgarLgh02e3OqOO0ffa5aPc5KB9p905H5DZdpRYZAAcLKM6uwaOh8!/b&bo=4QISAQAAAAADF8I!&rf=viewer_4)
 
 #### 查看导出表
 ![PE工具-导出表](https://i.loli.net/2021/05/12/9pvVPQu4UFcSgxZ.png)
@@ -38,4 +38,4 @@ Win7 VisualStudio2010 Win32SDK 多字节集编码 x86
 ![PE工具-资源表](https://i.loli.net/2021/05/12/Sad8ifDyMvr2wk1.png)
 
 #### 查看绑定导入表表
-![PE工具-绑定导入表表](https://i.loli.net/2021/05/12/Jvs9SpwInfKOmGY.png)
+![PE工具-绑定导入表表](http://m.qpic.cn/psc?/V53tEaNT08JBK54ePRQb1ZC3DT2wwZbT/45NBuzDIW489QBoVep5mceUC5kp660TTHq.W*47Uph7Bl*Qgdhq5dC.oI3m*g5uAS9PFJD0jd0vLQBLSzSWumB*a1BO4kQp6vFmAlx84s4Q!/b&bo=awPVAQAAAAADJ74!&rf=viewer_4)
